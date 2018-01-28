@@ -1,5 +1,6 @@
 Se agrega titulo a la pagina
 
 Este archivo contiene datos importantes para el desarrollo del proyecto
+Se agrega estilo de letra al proyecto
 Se agregan imagenes al proyecto
 Se agrega configuracion final al proyecto
